@@ -1,2 +1,1 @@
 test 1
-Ny rad som ska tas bort.
